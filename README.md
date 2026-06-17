@@ -31,8 +31,10 @@ The goal of this project was to build a functional CNC plasma cutting table for 
 ## 📐 How It Was Built (The Process)
 
 ### Step 1: Preparing the Frame
-* Stripped down the laser cutter, keeping the linear rails, belts, and stepper motors.
+* Assemble the laser cutter frame.
 * Designed a custom mount to hold the heavy plasma torch instead of the lightweight laser head.
+  <img width="878" height="1027" alt="image" src="https://github.com/user-attachments/assets/7eb1e03c-1b62-436a-8c2b-9cd08e56eca7" />
+
 
 ### Step 2: Wiring the Torch Trigger
 * Open the plasma torch handle (or the machine casing) to locate the two trigger wires.
