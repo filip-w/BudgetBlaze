@@ -9,7 +9,7 @@ The goal of this project was to build a functional CNC plasma cutting table for 
 > ⚠️ **Disclaimer:** Plasma cutters involve high voltages, intense UV light, compressed air, and molten metal. Build and operate at your own risk!
 
 ---
-<img width="4000" height="3000" alt="20260524_144556" src="https://github.com/user-attachments/assets/f53a8915-d30b-428c-b888-21884a9161b1" />
+<img width="1500" alt="20260524_144556" src="https://github.com/user-attachments/assets/f53a8915-d30b-428c-b888-21884a9161b1" />
 
 ## 🛠️ Hardware & Components
 
@@ -26,6 +26,15 @@ The goal of this project was to build a functional CNC plasma cutting table for 
 * **Firmware:** [e.g., GRBL, FluidNC]
 * **Relay Module:** Used to isolate and trigger the plasma torch.
 
+📊 Bill of Materials (BOM)
+
+|Component|Description|Source|
+|-------|-----|----------|
+|XY Laser Frame|The foundational mechanical chassis and motion system|[AliExpress Link](https://s.click.aliexpress.com/e/_c3vjAaQ1)|
+|CNC Torch|Straight-head plasma torch upgrade for easier CNC mounting|[AliExpress Link](https://s.click.aliexpress.com/e/_c3OPOTJf)|
+|Relay Board|5V relay module used to safely isolate and trigger the torch circuit|[AliExpress Link](https://s.click.aliexpress.com/e/_c4W0Wmgd)|
+|Plasma Cutter|Parkside (Lidl) inverter plasma cutter|Lidl / Local Hardware|
+|Controller|Microcontroller running GRBL|Included with the XY laser frame|
 ---
 
 ## 📐 How It Was Built (The Process)
@@ -53,7 +62,7 @@ The goal of this project was to build a functional CNC plasma cutting table for 
 ---
 
 ## 📸 Media & Demos
-<img width="4000" height="3000" alt="20260524_144711" src="https://github.com/user-attachments/assets/dcb32bb1-4430-4828-93bf-b2dffa5573a9" />
+<img width="1500" alt="20260524_144711" src="https://github.com/user-attachments/assets/dcb32bb1-4430-4828-93bf-b2dffa5573a9" />
 
 ---
 
